@@ -5,7 +5,7 @@
 1. Practice linking an external CSS file
 2. Practice writing selectors
 3. Practice styling our HTML
-
+ 
 ## Introduction
 
 In this lab, we will be adding style to our `index.html` page by linking an
